@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Us {
-
 	public static void main(String[] args) {
 		int taban, us, toplam=1;
 		Scanner inp = new Scanner(System.in);
@@ -15,5 +14,4 @@ public class Us {
 		}
 		System.out.println("Cevap: " +toplam);
 	}
-
 }
